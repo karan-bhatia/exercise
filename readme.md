@@ -10,10 +10,12 @@ In order to run the tests, you need to follow below steps.
 
 3. Update class path with all the jars in libraries folder.
 
-4. To run the Vending Machine code on command line, execute javac src/com/techTesters/VendingMachine.java and then run java src/com/techTesters/VendingMachine
+4. To run the Vending Machine code on command line, execute javac src/com/techTesters/VendingMachine.java and then run java src/com/techTesters/VendingMachine.
+    Please Note - The code to reset the Vending Machine is 1234
 
 5. To run the API tests code on command line, execute javac src/test/java/runner/TestRunner.java and then run java src/test/java/runner/TestRunner
 
-6. To run the Vending Machine code on IDE, configure the repo on IDE and go to VendingMachine.java. Right click on the class and click as Run VendingMachine.java
+6. To run the Vending Machine code on IDE, configure the repo on IDE and go to VendingMachine.java. Right click on the class and click as Run VendingMachine.java.
+    Please Note - The code to reset the Vending Machine is 1234
 
 7. To run the API tests code on IDE, configure the repo on IDE and go to APITest.feature. Right click on the feature annotation and click on Run feature.
